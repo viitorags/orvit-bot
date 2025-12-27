@@ -66,7 +66,7 @@ make clean
 ## Exemplos de Uso
 - !menu: Exibe a lista de comandos disponíveis.
 - !ping: Verifica se o bot está online e envia um !pong.
-- !fig (ou !s): Responda a uma imagem ou vídeo para criar uma figurinha.
+- !fig: Responda a uma imagem ou vídeo para criar uma figurinha.
 - !info: Exibe informações sobre o grupo.
 
 ## Estrutura
